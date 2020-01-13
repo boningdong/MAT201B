@@ -1,3 +1,5 @@
 *
-!**/*.cpp
 !.gitignore
+!**/Makefile
+!*.cpp
+!assignments/hw1_reverse_words.cpp
